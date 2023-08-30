@@ -4,8 +4,9 @@ Estes projetos tem como principal objetivo mostrar o desenvolvimento ao longo da
 
 Nome do Projeto|Linguagem|Fonte de Dados|Projeto|Dashboard|LinkedIn
 -|-|-|-|-|-
-Udemy EDA|Python e Data Looker Studio|[Kaggle](https://www.kaggle.com/datasets/andrewmvd/udemy-courses)|[Udemy EDA](https://github.com/jeantorre/EDA/blob/main/udemy_courses_eda.ipynb)|N/A|[Análise de dados - Cursos Udemy (Python)](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-cursos-udemy-python-jean-torre/)
+Udemy EDA|Python|[Kaggle](https://www.kaggle.com/datasets/andrewmvd/udemy-courses)|[Udemy EDA](https://github.com/jeantorre/EDA/blob/main/udemy_courses_eda.ipynb)|N/A|[Análise de dados - Cursos Udemy (Python)](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-cursos-udemy-python-jean-torre/)
 Top 50 livros Amazon (2009-2022)|Python|[Kaggle](https://www.kaggle.com/datasets/chriskachmar/amazon-top-50-bestselling-books-2009-2022)|[Top 50 livros Amazon (2009-2022)](https://github.com/jeantorre/EDA/blob/main/amazon_books_eda.ipynb)|N/A|[Análise de Dados - TOP 50 livros vendidos na Amazon (2009-2022)](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-top-50-livros-vendidos-na-amazon-2009-2022-torre/)
+Análise de Sentimento IMDb|Python|[Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)|[IMDB_eda](https://github.com/jeantorre/EDA/blob/main/IMDB_eda.ipynb)|N/A|[Análise de Sentimento IMDb](https://www.linkedin.com/pulse/an%25C3%25A1lise-de-dados-sentimento-imdb-python-jean-torre/?published=t)
 
 ## Projetos
 ### Udemy EDA
@@ -29,6 +30,16 @@ Os dados são de 2011 até 2017, época que ninguém pensaria numa pandemia como
 Hoje sabemos que a Amazon possui diversas frentes, oferecendo serviços como lojas físicas e *online*, serviços "na nuvem" - *cloud computing* -, *streaming* entre outros... e por acaso sabiam que inicialmente, em sua fundação, ela comercializava apenas livros para serem vendidos *online*? Ela não foi a pioneira, pois em 1991 a *Computer Literacy*, uma loja de livros do Vale do Silício, já oferecia esse tipo de serviço, mas a Amazon prometia ser diferente sendo capaz de entregar qualquer livro, a qualquer pessoa em qualquer lugar.  
 Em 2007 iniciaram as vendas do Kindle, um dos *e-readers* mais utilizados atualmente, onde estima-se que hoje represente 2/3 dos dispositivos deste segmento. Em 2011 foram introduzidos os primeiros aparelhos com tela sensíveis ao toque e no ano seguinte modelos com iluminação da própria tela.  
 Hoje trago uma base de dados que consiste nos 50 livros mais vendidos dos anos 2009 a 2022 pela Amazon.
+* Fases:
+	- Preparação dos Dados
+	- Análise dos dados
+	- Conclusões
+	- Referências
+### Análise de Sentimento IMDb
+* Descrição: Quando falamos em dados a maioria das vezes pensamos em números, não é mesmo? Particularmente não tenho qualquer lembrança de um professor de português falando algo como: "Considerando o dado acima, retire o substantivo", por exemplo.
+Porém na área de análise de dados qualquer informação, qualquer mesmo, pode ser considerada um dado! Uma imagem, um número, uma palavra... qualquer coisa, basta apenas nos adequarmos as necessidades do negócio.
+Com isso resolvi aprender uma nova ferramenta e fazer uma "Análise de Sentimento" a partir de textos! Ou seja, a partir de uma avaliação escrita do público, ser capaz de distinguir se tiveram informações boas ou ruins naquela avaliação.
+Para isso faremos a análise das avaliações do site IMDb (Internet Movie Database), que é de propriedade da Amazon. Nele são encontradas informações como atores/participantes, sinopse, gênero, avaliações escritas, e por pontuações, de críticos e usuários, de séries, filmes e muito mais. Ou seja, um ótimo guia para nos orientarmos naquele final de semana com tempo livre!
 * Fases:
 	- Preparação dos Dados
 	- Análise dos dados
