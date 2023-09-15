@@ -94,11 +94,11 @@ Poderíamos acabar por aqui a nossa análise, afinal com o decorrer deste relat�
 
 ![Boxplot salário gênero 1](https://drive.google.com/uc?id=1akna1lH3okAhQDDUAO3iLMULTx4p0WCX "Boxplot salário gênero 1")
 
-Nessa amostragem o salário mínimo, mensal, feminino é um pouco maior que o masculino. A diferença maior ocorro no salário máximo entre os gêneros.
+Nessa amostragem o 1º quartil do salário, mensal, feminino é um pouco maior que o masculino. A diferença maior ocorro no 3º quartil do salário entre os gêneros.
 
 ![Boxplot salário gênero 2](https://drive.google.com/uc?id=1-xIjZ8PcH7NGRlEMDVevvtjPCizCRfhJ "Boxplot salário gênero 2")
 
-Com essa visualização gráfica fica bem nítido a diferença de salário para o cargo "Representante de vendas". Além de ser um dos menos salários, mensais, iniciais, é o que tem menor variação entre mínimo e máximo recebido neste cargo, o que, aparentemente, mostra como não há evolução neste cargo dentro da empresa.  
+Com essa visualização gráfica fica bem nítido a diferença de salário para o cargo "Representante de vendas". Além de ser um dos menores salários, mensais, iniciais, é o que tem menor variação entre o 1º quartil e 3º quartil recebido neste cargo, o que, aparentemente, mostra como não há evolução neste cargo dentro da empresa. 
 
 ---
 
