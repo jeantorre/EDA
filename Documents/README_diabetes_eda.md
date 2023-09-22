@@ -110,7 +110,7 @@ Image source: https://towardsdatascience.com/understanding-confusion-matrix-a9ad
 * False Negative (FN - type 2 error) - the algorithm predicted negative and it's false
 
 To calculate then:  
-![Confusion matrix calculation](https://miro.medium.com/v2/resize:fit:640/format:webp/1*uR09zTlPgIj5PvMYJZScVg.png "Confusion matrix calculation")
+![Confusion matrix calculation](https://miro.medium.com/v2/resize:fit:640/format:webp/1*uR09zTlPgIj5PvMYJZScVg.png "Confusion matrix calculation")  
 Image source: https://miro.medium.com/v2/resize:fit:640/format:webp/1*uR09zTlPgIj5PvMYJZScVg.png  
 
 ![F-measure](https://miro.medium.com/v2/resize:fit:640/format:webp/1*98FaAKfPWo-EBTbjsxm4GA.png "F-measure")  
