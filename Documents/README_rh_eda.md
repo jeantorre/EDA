@@ -141,3 +141,10 @@ Essa conclusões não são totalmente novidade, afinal todos já imaginávamos e
 * Attrition. **Gartner**, 2023. Disponível em: <https://www.gartner.com/en/human-resources/glossary/attrition#:~:text=Attrition%20is%20the%20departure%20of,%2C%20termination%2C%20death%20or%20retirement>. Acesso em 12 de setembro de 2023.
 * Day Rate: Flat Fee For a Day of Work, Considerations. **Investopedia**, 2022. Disponível em: <https://www.investopedia.com/terms/d/dayrate.asp#:~:text=The%20day%20rate%2C%20or%20per,per%2Dproject%20or%20seasonal%20basis>. Acesso em 12 de setembro de 2023.
 * The Real Costs of Recruitment. **SHRM**, 2022. Disponível em: <https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/the-real-costs-of-recruitment.aspx>. Acesso em 13 de setembro de 2023.
+
+---
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-torre-44a27914b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/torrej/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jean.torre21@gmail.com)
+          
