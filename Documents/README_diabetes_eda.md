@@ -141,3 +141,9 @@ Using just an EDA it's possible to see some similarity in medical diagnosis resu
 * Diabetes. **World Health Organization**, 2023. Available on: <https://www.who.int/news-room/fact-sheets/detail/diabetes#:~:text=Over%20time%2C%20diabetes%20can%20damage,blood%20vessels%20in%20the%20eyes.>. Accessed September 21, 2023.
 * Python – Replace Missing Values with Mean, Median & Mode. **Analytics Yogi**, 2023. Available on: <https://vitalflux.com/pandas-impute-missing-values-mean-median-mode/.>. Accessed September 22, 2023.
 * Understanding Confusion Matrix. **Medium**, 2018. Available on: <https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62>. Accessed September 22, 2023.
+
+---
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-torre-44a27914b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/torrej/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jean.torre21@gmail.com)
