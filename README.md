@@ -10,13 +10,14 @@ Estes projetos tem como principal objetivo mostrar o desenvolvimento ao longo da
 Aaahh, os README's servem, também, como um relatório! Escolha sua preferência... e o tempo continuarei melhorando na construção deles, hein
 
 
-Relatório (READme)|Linguagem|Fonte de Dados|Código|Dashboard|Relatório (LinkedIn)
--|-|-|-|-|-
-[Diabetes Prediction](https://github.com/jeantorre/EDA/blob/main/Documents/README_diabetes_eda.md)|Python|[Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?datasetId=228&sortBy=voteCount)|[Diabetes Prediction](https://github.com/jeantorre/EDA/blob/main/diabets_project.ipynb)|N/A|[Diabetes Prediction](https://www.linkedin.com/feed/update/urn:li:activity:7111330616188502016/)
-[RH e suas complicações](https://github.com/jeantorre/EDA/blob/main/Documents/README_rh_eda.md)|Python|[Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)|[RH e suas complicações](https://github.com/jeantorre/EDA/blob/main/rh_eda.ipynb)|N/A|[RH e suas complicações](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-rh-e-suas-complica%C3%A7%C3%B5es-jean-torre/)
-[Análise de Sentimento IMDb](https://github.com/jeantorre/EDA/blob/main/Documents/README_IMDB_eda.md)|Python|[Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)|[IMDB_eda](https://github.com/jeantorre/EDA/blob/main/IMDB_eda.ipynb)|N/A|[Análise de Sentimento IMDb](https://www.linkedin.com/pulse/an%25C3%25A1lise-de-dados-sentimento-imdb-python-jean-torre/?published=t)
-[Top 50 livros Amazon (2009-2022)](https://github.com/jeantorre/EDA/blob/main/Documents/README_amazon_books_eda.md)|Python|[Kaggle](https://www.kaggle.com/datasets/chriskachmar/amazon-top-50-bestselling-books-2009-2022)|[Top 50 livros Amazon (2009-2022)](https://github.com/jeantorre/EDA/blob/main/amazon_books_eda.ipynb)|N/A|[Análise de Dados - TOP 50 livros vendidos na Amazon (2009-2022)](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-top-50-livros-vendidos-na-amazon-2009-2022-torre/)
-[Udemy EDA](https://github.com/jeantorre/EDA/blob/main/Documents/README_udemy_eda.md)|Python|[Kaggle](https://www.kaggle.com/datasets/andrewmvd/udemy-courses)|[Udemy EDA](https://github.com/jeantorre/EDA/blob/main/udemy_courses_eda.ipynb)|N/A|[Análise de dados - Cursos Udemy (Python)](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-cursos-udemy-python-jean-torre/)
+Relatório (README)|Código|Dashboard|Relatório (LinkedIn)
+-|-|-|-
+[O Marketing Bancário](https://github.com/jeantorre/EDA/blob/main/Documents/README_mkt_eda.md)|[Clique aqui](https://github.com/jeantorre/EDA/blob/main/marketing_eda.ipynb)|N/A|[O Marketing Bancário](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-o-marketing-banc%C3%A1rio-jean-torre/)  
+[Diabetes Prediction](https://github.com/jeantorre/EDA/blob/main/Documents/README_diabetes_eda.md)|[Clique aqui](https://github.com/jeantorre/EDA/blob/main/diabets_project.ipynb)|N/A|[Diabetes Prediction](https://www.linkedin.com/feed/update/urn:li:activity:7111330616188502016/)
+[RH e suas complicações](https://github.com/jeantorre/EDA/blob/main/Documents/README_rh_eda.md)|[Clique aqui](https://github.com/jeantorre/EDA/blob/main/rh_eda.ipynb)|N/A|[RH e suas complicações](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-rh-e-suas-complica%C3%A7%C3%B5es-jean-torre/)
+[Análise de Sentimento IMDb](https://github.com/jeantorre/EDA/blob/main/Documents/README_IMDB_eda.md)|[Clique aqui](https://github.com/jeantorre/EDA/blob/main/IMDB_eda.ipynb)|N/A|[Análise de Sentimento IMDb](https://www.linkedin.com/pulse/an%25C3%25A1lise-de-dados-sentimento-imdb-python-jean-torre/?published=t)
+[Top 50 livros Amazon (2009-2022)](https://github.com/jeantorre/EDA/blob/main/Documents/README_amazon_books_eda.md)|[Clique aqui](https://github.com/jeantorre/EDA/blob/main/amazon_books_eda.ipynb)|N/A|[Análise de Dados - TOP 50 livros vendidos na Amazon (2009-2022)](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-top-50-livros-vendidos-na-amazon-2009-2022-torre/)
+[Udemy EDA](https://github.com/jeantorre/EDA/blob/main/Documents/README_udemy_eda.md)|[Clique aqui](https://github.com/jeantorre/EDA/blob/main/udemy_courses_eda.ipynb)|N/A|[Análise de dados - Cursos Udemy (Python)](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-cursos-udemy-python-jean-torre/)
 
 
 
