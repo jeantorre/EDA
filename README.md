@@ -10,8 +10,9 @@ Estes projetos tem como principal objetivo mostrar o desenvolvimento ao longo da
 Aaahh, os README's servem, também, como um relatório! Escolha sua preferência... e o tempo continuarei melhorando na construção deles, hein
 
 
-Relatório (README)|Código|Dashboard|Relatório (LinkedIn)
+Relatório (README)|Código|Apresentação|Relatório (LinkedIn)
 -|-|-|-
+[Lucratividade em Foco: Análise e Previsão de Faturamento](https://github.com/jeantorre/EDA/blob/main/Documents/README_facebook_prophet.md)|[Clique aqui](https://github.com/jeantorre/lib_prophet_usage/blob/main/prophet_usage.ipynb)|[Apresentação Análise e Previsão de Faturamento](https://github.com/jeantorre/lib_prophet_usage/blob/main/apresentacao_jean_torre.pdf)| N/A
 [O Marketing Bancário](https://github.com/jeantorre/EDA/blob/main/Documents/README_mkt_eda.md)|[Clique aqui](https://github.com/jeantorre/EDA/blob/main/marketing_eda.ipynb)|N/A|[O Marketing Bancário](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-o-marketing-banc%C3%A1rio-jean-torre/)  
 [Diabetes Prediction](https://github.com/jeantorre/EDA/blob/main/Documents/README_diabetes_eda.md)|[Clique aqui](https://github.com/jeantorre/EDA/blob/main/diabets_project.ipynb)|N/A|[Diabetes Prediction](https://www.linkedin.com/feed/update/urn:li:activity:7111330616188502016/)
 [RH e suas complicações](https://github.com/jeantorre/EDA/blob/main/Documents/README_rh_eda.md)|[Clique aqui](https://github.com/jeantorre/EDA/blob/main/rh_eda.ipynb)|N/A|[RH e suas complicações](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-rh-e-suas-complica%C3%A7%C3%B5es-jean-torre/)
