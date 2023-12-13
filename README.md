@@ -12,6 +12,7 @@ Aaahh, os README's servem, também, como um relatório! Escolha sua preferência
 
 Relatório (README)|Código|Apresentação|Relatório (LinkedIn)
 -|-|-|-
+[Dengue no Rio - Da conscientização à Ação Imediata](https://github.com/jeantorre/casos_dengue_RJ/blob/main/README.md)|[Clique aqui](https://github.com/jeantorre/casos_dengue_RJ/blob/main/dengue_RJ.ipynb)|[Apresentação Dengue no Rio](https://github.com/jeantorre/casos_dengue_RJ/blob/main/apresentacao_casos_dengue_RJ.pdf)| N/A
 [Lucratividade em Foco: Análise e Previsão de Faturamento](https://github.com/jeantorre/EDA/blob/main/Documents/README_facebook_prophet.md)|[Clique aqui](https://github.com/jeantorre/lib_prophet_usage/blob/main/prophet_usage.ipynb)|[Apresentação Análise e Previsão de Faturamento](https://github.com/jeantorre/lib_prophet_usage/blob/main/apresentacao_jean_torre.pdf)| N/A
 [O Marketing Bancário](https://github.com/jeantorre/EDA/blob/main/Documents/README_mkt_eda.md)|[Clique aqui](https://github.com/jeantorre/EDA/blob/main/marketing_eda.ipynb)|N/A|[O Marketing Bancário](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-o-marketing-banc%C3%A1rio-jean-torre/)  
 [Diabetes Prediction](https://github.com/jeantorre/EDA/blob/main/Documents/README_diabetes_eda.md)|[Clique aqui](https://github.com/jeantorre/EDA/blob/main/diabets_project.ipynb)|N/A|[Diabetes Prediction](https://www.linkedin.com/feed/update/urn:li:activity:7111330616188502016/)
